@@ -1,1 +1,1 @@
-# Template de projet pour le TP JPA 2021 UniR
+Pour exécuter le script il faut lancer la base de donnée et ensuite jpa launcher.
